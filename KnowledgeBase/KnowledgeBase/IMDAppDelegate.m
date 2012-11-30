@@ -21,6 +21,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    NSLog(@"test from mac mini");
     NSLog(@"I am in Deleage");
     
     NSLog(@"I am in Deleage !! Again");
