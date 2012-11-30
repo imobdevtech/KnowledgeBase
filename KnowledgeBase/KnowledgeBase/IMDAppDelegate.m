@@ -22,6 +22,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     NSLog(@"I am in Deleage");
+    
+    NSLog(@"I am in Deleage !! Again");
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];
     // Override point for customization after application launch.
     self.viewController = [[[IMDViewController alloc] initWithNibName:@"IMDViewController" bundle:nil] autorelease];
