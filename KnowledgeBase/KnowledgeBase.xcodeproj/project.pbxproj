@@ -103,6 +103,9 @@
 				4CE357581669D7F700D239CE /* iOS Simulator Screen shot 29-Nov-2012 1.07.07 PM.png */,
 				4CE357561669D7D700D239CE /* iOS Simulator Screen shot 29-Nov-2012 1.07.07 PM.png */,
 				3510D93B16690ADB00936531 /* Supporting Files */,
+				35FBD287166A09EC00275760 /* MapViewController.h */,
+				35FBD288166A09EC00275760 /* MapViewController.m */,
+				35FBD289166A09EC00275760 /* MapViewController.xib */,
 			);
 			path = KnowledgeBase;
 			sourceTree = "<group>";
