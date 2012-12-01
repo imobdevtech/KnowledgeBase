@@ -20,6 +20,7 @@
 		3510D95116690ADC00936531 /* IMDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3510D94F16690ADC00936531 /* IMDViewController.xib */; };
 		4CC4C29F16691DFB00C80EFF /* IMDTstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CC4C29D16691DFB00C80EFF /* IMDTstViewController.m */; };
 		4CC4C2A016691DFB00C80EFF /* IMDTstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CC4C29E16691DFB00C80EFF /* IMDTstViewController.xib */; };
+		4CE357541669D19A00D239CE /* charlie_chaplin_44839-1152x864.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CE357531669D19A00D239CE /* charlie_chaplin_44839-1152x864.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		4CC4C29C16691DFB00C80EFF /* IMDTstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMDTstViewController.h; sourceTree = "<group>"; };
 		4CC4C29D16691DFB00C80EFF /* IMDTstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMDTstViewController.m; sourceTree = "<group>"; };
 		4CC4C29E16691DFB00C80EFF /* IMDTstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IMDTstViewController.xib; sourceTree = "<group>"; };
+		4CE357531669D19A00D239CE /* charlie_chaplin_44839-1152x864.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "charlie_chaplin_44839-1152x864.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				3510D94C16690ADC00936531 /* IMDViewController.h */,
 				3510D94D16690ADC00936531 /* IMDViewController.m */,
 				3510D94F16690ADC00936531 /* IMDViewController.xib */,
+				4CE357531669D19A00D239CE /* charlie_chaplin_44839-1152x864.jpg */,
 				3510D93B16690ADB00936531 /* Supporting Files */,
 			);
 			path = KnowledgeBase;
@@ -173,6 +176,7 @@
 				3510D94B16690ADC00936531 /* Default-568h@2x.png in Resources */,
 				3510D95116690ADC00936531 /* IMDViewController.xib in Resources */,
 				4CC4C2A016691DFB00C80EFF /* IMDTstViewController.xib in Resources */,
+				4CE357541669D19A00D239CE /* charlie_chaplin_44839-1152x864.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
