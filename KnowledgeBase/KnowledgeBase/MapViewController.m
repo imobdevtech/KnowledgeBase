@@ -25,6 +25,8 @@
 
 -(void)fakeMethod{//this is a fake method just to make the discard action clear for you
     
+    //Just the comment
+    
     NSLog(@" Discarding changes allow you to get the latest revision you have worked on it.");
 }
 
