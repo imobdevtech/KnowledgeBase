@@ -10,5 +10,6 @@
 
 @interface MapViewController : UIViewController
 
+-(void)fakeMethod;//this is a fake method just to make the discard action clear for you
 
 @end
