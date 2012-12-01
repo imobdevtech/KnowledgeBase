@@ -18,6 +18,8 @@
 		3510D94B16690ADC00936531 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3510D94A16690ADC00936531 /* Default-568h@2x.png */; };
 		3510D94E16690ADC00936531 /* IMDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3510D94D16690ADC00936531 /* IMDViewController.m */; };
 		3510D95116690ADC00936531 /* IMDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3510D94F16690ADC00936531 /* IMDViewController.xib */; };
+		35FBD28A166A09EC00275760 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35FBD288166A09EC00275760 /* MapViewController.m */; };
+		35FBD28B166A09EC00275760 /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35FBD289166A09EC00275760 /* MapViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,9 @@
 		3510D94C16690ADC00936531 /* IMDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMDViewController.h; sourceTree = "<group>"; };
 		3510D94D16690ADC00936531 /* IMDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMDViewController.m; sourceTree = "<group>"; };
 		3510D95016690ADC00936531 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/IMDViewController.xib; sourceTree = "<group>"; };
+		35FBD287166A09EC00275760 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		35FBD288166A09EC00275760 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		35FBD289166A09EC00275760 /* MapViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +94,9 @@
 				3510D94D16690ADC00936531 /* IMDViewController.m */,
 				3510D94F16690ADC00936531 /* IMDViewController.xib */,
 				3510D93B16690ADB00936531 /* Supporting Files */,
+				35FBD287166A09EC00275760 /* MapViewController.h */,
+				35FBD288166A09EC00275760 /* MapViewController.m */,
+				35FBD289166A09EC00275760 /* MapViewController.xib */,
 			);
 			path = KnowledgeBase;
 			sourceTree = "<group>";
@@ -164,6 +172,7 @@
 				3510D94916690ADC00936531 /* Default@2x.png in Resources */,
 				3510D94B16690ADC00936531 /* Default-568h@2x.png in Resources */,
 				3510D95116690ADC00936531 /* IMDViewController.xib in Resources */,
+				35FBD28B166A09EC00275760 /* MapViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +186,7 @@
 				3510D94116690ADC00936531 /* main.m in Sources */,
 				3510D94516690ADC00936531 /* IMDAppDelegate.m in Sources */,
 				3510D94E16690ADC00936531 /* IMDViewController.m in Sources */,
+				35FBD28A166A09EC00275760 /* MapViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,6 +300,7 @@
 				3510D95616690ADC00936531 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
